@@ -1,0 +1,2 @@
+jenixinfo repository add
+test
